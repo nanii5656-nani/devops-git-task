@@ -32,11 +32,7 @@ To manage a DevOps project using Git version control and GitHub best practices.
 ### Step 7: Added Tag
 - Tagged the final version as `v1.0`.
 
-### Step 8: Documentation and Submission
-- Updated README and documentation files.
-- Submitted GitHub repo link in the form.
-
 ## Outcome
-Successfully completed a version-controlled DevOps project and learned Git branching, merging, tagging, and documentation.
+Successfully completed a version-controlled DevOps project and  Git branching, merging, tagging.
 
 ---
