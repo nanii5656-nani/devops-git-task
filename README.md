@@ -27,8 +27,7 @@ adding tags, and writing documentation.
      ```
    - Make executable before testing: `chmod +x hello.sh`
 
-6. `└── app.txt`  
-   - A simple text file used to demonstrate file changes across branches (e.g., update content in `feature` branch, then merge).
+   
 
 ---
 
@@ -54,8 +53,45 @@ adding tags, and writing documentation.
  * Tag: v1.0
 
 ## 🔹 Author
-Jakkula Naniii
-Date: October 24, 2025
+* Jakkula Naniii
+* Date: October 24, 2025
 
-## Screenshots
+## Screenshots(proof of Work)
+
+### ✅ Pull Request: feature → dev (Merged Successfully)
+
+
+<img width="1912" height="937" alt="Screenshot 2025-10-24 105810" src="https://github.com/user-attachments/assets/c420a864-2260-4ddd-9eab-5fa2d20d3dc1" />
+
+
+
+
+
+
+
+
+<img width="1919" height="956" alt="Screenshot 2025-10-24 105832" src="https://github.com/user-attachments/assets/9aeba761-c874-40fb-a517-327b2c60edc3" />
+
+
+
+
+
+---
+
+
+### ✅ Pull Request: dev → main (Merged Successfully)
+
+
+
+<img width="1919" height="983" alt="Screenshot 2025-10-24 110248" src="https://github.com/user-attachments/assets/96c10a38-4888-49bc-8f0c-cc0dad1e4bc8" />
+
+
+
+<img width="1918" height="998" alt="Screenshot 2025-10-24 110304" src="https://github.com/user-attachments/assets/6f865144-a71b-404f-a2e6-10387aecab4a" />
+
+
+
+
+
+
 
